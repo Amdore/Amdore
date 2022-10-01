@@ -29,5 +29,7 @@
  <a href="https://discordapp.com/users/274552730234650625" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:andre.pimentel.bi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+  ![Snake animation](https://github.com/Amdore/Amdore/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
